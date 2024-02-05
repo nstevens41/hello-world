@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Well hello my fellow GitHubers. This is not my first GitHub account I just created this one for a school assignment. I actually host my website on GitHub so I could have more customization. I also have my calculator program which is written in C++ for the PC version and the TI Programming language for the version on pocket calculators. I used to mainly code in Python but I found having to have the indents very specific extremely annoying so I switched to C++.
